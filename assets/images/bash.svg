@@ -1,0 +1,39 @@
+<svg viewBox="0 0 502 517" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5">
+    <path d="M501 7.472a6.477 6.477 0 0 0-6.473-6.473H7.473A6.477 6.477 0 0 0 1 7.472v502.054a6.476 6.476 0 0 0 6.473 6.473h487.054c3.572 0 6.473-2.9 6.473-6.473V7.472z" fill="#2b2552" stroke="#b671e7" stroke-width="2"/>
+    <circle cx="21.908" cy="17.459" r="5.724" fill="#fe5e56"/>
+    <circle cx="41" cy="17.459" r="5.724" fill="#febc2e"/>
+    <circle cx="60.093" cy="17.459" r="5.724" fill="#27c93f"/>
+    <text x="234.128" y="23.415" font-family="'Overpass-Light','Overpass'" font-weight="300" font-size="16" fill="#fff">
+        bash
+    </text>
+    <g font-size="16">
+        <text x="219.439" y="480.516" font-family="'OverpassMono-Bold','Overpass Mono'" font-weight="700" fill="#b671e7" transform="translate(-197.72 -422.401)">
+            ~/myProject
+        </text>
+        <text x="337.711" y="480.516" font-family="'OverpassMono-Light','Overpass Mono'" font-weight="300" fill="#fff" transform="translate(-197.72 -422.401)">
+            $ npm test
+        </text>
+        <text x="239.151" y="528.516" font-family="'OverpassMono-Light','Overpass Mono'" font-weight="300" fill="#fff" transform="translate(-197.72 -422.401)">
+            src/tests/index.test.ts
+        </text>
+        <text x="258.863" y="552.516" font-family="'OverpassMono-Light','Overpass Mono'" font-weight="300" fill="#ffe566" transform="translate(-197.72 -422.401)">
+            isHay() returns true
+        </text>
+        <text x="465.839" y="552.516" font-family="'AppleSymbols','Apple Symbols'" fill="#3bd4b5" transform="translate(-197.72 -422.401)">
+            ⚑
+        </text>
+        <text x="239.151" y="600.516" font-family="'OverpassMono-Bold','Overpass Mono'" font-weight="700" fill="#3bd4b5" transform="translate(-197.72 -422.401)">
+            1
+        </text>
+        <text x="258.863" y="600.516" font-family="'OverpassMono-Light','Overpass Mono'" font-weight="300" fill="#fff" transform="translate(-197.72 -422.401)">
+            passing
+        </text>
+        <text x="219.439" y="648.516" font-family="'OverpassMono-Bold','Overpass Mono'" font-weight="700" fill="#b671e7" transform="translate(-197.72 -422.401)">
+            ~/myProject
+        </text>
+        <text x="337.711" y="648.516" font-family="'OverpassMono-Light','Overpass Mono'" font-weight="300" fill="#fff" transform="translate(-197.72 -422.401)">
+            $
+        </text>
+    </g>
+    <path fill="#aa71e7" d="M162.68 211.137h9.77v18.402h-9.77z"/>
+</svg>
